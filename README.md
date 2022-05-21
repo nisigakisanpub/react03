@@ -1,3 +1,12 @@
+# はじめてつくるReactアプリ with TypeScript
+
+### 作業場所
+/home/nisigaki/react03/react-typescript-weather-app
+
+### バージョン
+
+
+　
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
