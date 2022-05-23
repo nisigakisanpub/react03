@@ -3,7 +3,70 @@
 ### 作業場所
 /home/nisigaki/react03/react-typescript-weather-app
 
-### バージョン
+### 構成・バージョン
+```
+./
+|-README.md
+|-build/
+|-node_modules/
+|-package-lock.json
+|-package.json
+|-public/
+|-src/
+|- tsconfig.json
+
+./public/
+|-favicon.ico
+|-index.html
+|-logo192.png
+|-logo512.png
+|-manifest.json
+|- robots.txt
+
+./build/
+|-asset-manifest.json
+|-favicon.ico
+|-index.html
+|-logo192.png
+|-logo512.png
+|-manifest.json
+|-robots.txt
+|-static/
+  |-css/
+  |-js/
+  |-media/
+
+./src/
+|-App.css
+|-App.test.tsx
+|-App.tsx
+|-background-image.jpg*
+|-components/
+| |-Form.tsx
+| |-Loading.tsx
+| |-Results.tsx
+| |-Title.tsx
+|-index.css
+|-index.tsx
+|-logo.svg
+|-react-app-env.d.ts
+|-reportWebVitals.ts
+|- setupTests.ts
+
+npm list
+====
+|-@testing-library/jest-dom@5.16.4
+|-@testing-library/react@13.2.0
+|-@testing-library/user-event@13.5.0
+|-@types/jest@27.5.1
+|-@types/node@16.11.36
+|-@types/react-dom@18.0.4
+|-@types/react@18.0.9
+|-react-dom@18.1.0
+|-react-scripts@5.0.1
+|-react@18.1.0
+|-typescript@4.6.4
+|-web-vitals@2.1.4
 
 
 　
